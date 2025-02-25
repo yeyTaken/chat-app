@@ -1,0 +1,7 @@
+# Archives
+node_modules/
+.wwebjs_auth/
+
+# Files
+package-*
+qrcode.png
