@@ -1,6 +1,7 @@
 # Archives
 node_modules/
 .wwebjs_auth/
+dist/
 
 # Files
 package-*

@@ -1,3 +1,3 @@
-import { initializeClient } from "@/client/client";
+import { initializeClient } from "./whatsapp/client";
 
 initializeClient();

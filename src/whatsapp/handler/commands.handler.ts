@@ -2,7 +2,7 @@ import { Client, Message } from "whatsapp-web.js";
 import fs from "fs";
 import path from "path";
 
-import { ICommand } from "@client";
+import { ICommand } from "../types/command";
 
 // Função para listar arquivos de forma recursiva
 async function getCommandFiles(dir: string): Promise<string[]> {

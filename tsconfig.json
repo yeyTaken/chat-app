@@ -11,10 +11,9 @@
       "baseUrl": "./",
       "paths": {
         "@/*": ["src/*"],
-        "@client": ["src/types/command.ts"]
+        "@client": ["src/whatsapp/types/command.ts"]
       }
     },
     "include": ["src"],
     "exclude": ["node_modules"]
-  }
-  
+}
