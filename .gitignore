@@ -6,3 +6,4 @@ dist/
 # Files
 package-*
 qrcode.png
+.env
