@@ -1,6 +1,6 @@
 # Archives
 node_modules/
-.wwebjs_auth/
+.wwebjs_*/
 dist/
 
 # Files
