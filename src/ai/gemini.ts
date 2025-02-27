@@ -29,18 +29,23 @@ export async function askGemini(prompt: string): Promise<string> {
                 // Respostas personalizadas
                 if (matchesPattern(lowerPrompt, creatorPatterns)) {
                     const newPrompt = `
-                    deve responder que foi criada por Israel Rabbi.
-                    - meu nome: Israel Rabbi Jatobá Da Silva Rocha
-                    - minha profissão: Programador e Estudante
-                    - meu github: https://github.com/yeyTaken
-                    - você foi feito usando: TypeScript.
-
-                    para que essas infosmações? para responder a pergunta feito pelo usúario;
+                    Por favor, responda à pergunta do usuário abaixo, utilizando o idioma utilizado:
                     
                     "${lowerPrompt}"
-
-                    deve responder de acordo com a linguagem perguntada pelo prompt acima do usuario e agora que tem minhas infomações fica mais facil responde-lo.
+                    
+                    Lembre-se de incluir as seguintes informações no início da sua resposta:
+                    
+                    - Nome do criador: Israel Rabbi Jatobá Da Silva Rocha
+                    - Abreviação de nome: Israel R J S Rocha
+                    - Apelido: Rabi
+                    - Profissão: Programador e Estudante
+                    - GitHub: https://github.com/yeyTaken
+                    - Desenvolvido com: TypeScript
+                    
+                    Sua resposta será enviada diretamente ao usuário final.
                     `;
+
+                    // console.log(newPrompt);
 
                     result = await model.generateContent(newPrompt);
                     response = result.response.text();
