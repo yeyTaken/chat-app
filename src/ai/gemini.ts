@@ -29,7 +29,7 @@ export async function askGemini(prompt: string): Promise<string> {
                 // Respostas personalizadas
                 if (matchesPattern(lowerPrompt, creatorPatterns)) {
                     const newPrompt = `
-                    Por favor, responda à pergunta do usuário abaixo, utilizando o idioma utilizado:
+                    Por favor, responda à pergunta do usuário abaixo, utilizando o idioma utilizado do usuário:
                     
                     "${lowerPrompt}"
                     
