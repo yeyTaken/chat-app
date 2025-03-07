@@ -40,9 +40,9 @@ fs.readdirSync(eventsPath).forEach((file) => {
     import(path.join(eventsPath, file)).then((eventModule) => {
       const event = eventModule.default;
       
-      if (event && event.type && event.run) {
+      if (event && event.name && event.run) {
         // Register the event handler dynamically
-        client.on(event.type, (args: any) => {
+        client.on(event.name, (args: any) => {
           event.run(args);
         });
       }
