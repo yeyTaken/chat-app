@@ -1,5 +1,5 @@
 export default {
-    type: 'ready',
+    name: 'ready',
     async run() {
       console.log('Client connected!');
     },
