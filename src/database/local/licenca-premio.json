@@ -1,0 +1,56 @@
+{
+  "title": "LONGEVITY LEAVE FOR ASSIDUITY",
+  "eligibility": {
+    "description": "Permanent public service employees at the state level, assigned to:",
+    "locations": [
+      "Municipal school units",
+      "Municipalized schools",
+      "Pedagogical coordinator",
+      "Administrative staff"
+    ],
+    "requirement": "Must have completed five uninterrupted years of effective service."
+  },
+  "types": [
+    "For enjoyment",
+    "For compensation"
+  ],
+  "how_to_apply": [
+    "Initiate a process including:",
+    "Wait for the publication of the ordinance outlining the necessary requirements for approval.",
+    "Access the RH BAHIA system and submit your request in the requests tab.",
+    "Save the receipt."
+  ],
+  "where_to_apply": [
+    "At SAC Education service centers in Salvador/Feira de Santana",
+    "At the Territorial Education Center (NTE) of the jurisdiction where the employee is assigned."
+  ],
+  "application_deadline": "As indicated in the publication ordinance.",
+  "procedures_after_completion": {
+    "enjoyment": "At the end of the leave period, the employee must report to their assigned unit and/or complement, and ensure that the reassumption document is sent to the Human Resources Administration Directorate / Coordination of Provision and Mobility / Temporary Leave Coordination.",
+    "compensation": "The employee does not need to take leave, as the payment is made directly to the registered bank account."
+  },
+  "responsible_unit": "Human Resources Administration Directorate (DIREH) / Coordination of Provision and Mobility (CPM) / Temporary Leave Coordination (CAT), in the case of enjoyment.",
+  "general_information": [
+    "The employee must remain active while awaiting approval of the leave by the competent authority (publication in the State Official Gazette).",
+    "Double counting for retirement is guaranteed for five-year periods completed until 12/15/1998.",
+    "In the case of holding multiple positions, even within the same institution, the longevity leave must be requested separately for each position."
+  ],
+  "interruption_conditions": [
+    "Disciplinary suspension penalty",
+    "Leave for treating a family member's health",
+    "Conviction to a prison sentence by final judgment",
+    "Leave to accompany spouse or partner",
+    "Unjustified absences exceeding 15 days per year or 45 days per five-year period"
+  ],
+  "rights": "The right to longevity leave does not expire and is not subject to forfeiture.",
+  "legal_basis": [
+    {
+      "description": "Article 41, sections XVIII, XXVII, and XXVIII of the State Constitution.",
+      "link": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    },
+    {
+      "description": "Articles 107 to 110 of Law 6.677 of September 26, 1994.",
+      "link": "http://www.legislabahia.ba.gov.br/verdoc.php?id=72545"
+    }
+  ]
+}
