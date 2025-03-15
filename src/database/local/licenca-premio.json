@@ -1,55 +1,55 @@
 {
-  "title": "LONGEVITY LEAVE FOR ASSIDUITY",
-  "eligibility": {
-    "description": "Permanent public service employees at the state level, assigned to:",
-    "locations": [
-      "Municipal school units",
-      "Municipalized schools",
-      "Pedagogical coordinator",
-      "Administrative staff"
+  "titulo": "LICENÇA-PRÊMIO POR ASSIDUIDADE",
+  "quem_tem_direito": {
+    "descricao": "Servidor ocupante de cargo permanente no Serviço Público Estadual, que esteja lotado em:",
+    "locais": [
+      "Unidades escolares municipais",
+      "Escolas municipalizadas",
+      "Coordenador pedagógico",
+      "Administrativo"
     ],
-    "requirement": "Must have completed five uninterrupted years of effective service."
+    "requisito": "Haver completado cinco anos ininterruptos de efetivo exercício."
   },
-  "types": [
-    "For enjoyment",
-    "For compensation"
+  "pode_ocorrer": [
+    "Por fruição",
+    "Por pecúnia"
   ],
-  "how_to_apply": [
-    "Initiate a process including:",
-    "Wait for the publication of the ordinance outlining the necessary requirements for approval.",
-    "Access the RH BAHIA system and submit your request in the requests tab.",
-    "Save the receipt."
+  "como_requerer": [
+    "Abertura de processo contendo:",
+    "Aguarde a publicação da portaria informando os requisitos necessários para a concessão.",
+    "Acesse o sistema RH BAHIA e na guia requerimentos faça sua solicitação.",
+    "Salve o comprovante."
   ],
-  "where_to_apply": [
-    "At SAC Education service centers in Salvador/Feira de Santana",
-    "At the Territorial Education Center (NTE) of the jurisdiction where the employee is assigned."
+  "onde_requerer": [
+    "Nos Postos do SAC Educação Salvador/Feira de Santana",
+    "No Núcleo Territorial de Educação (NTE) de jurisdição da unidade no qual está lotado."
   ],
-  "application_deadline": "As indicated in the publication ordinance.",
-  "procedures_after_completion": {
-    "enjoyment": "At the end of the leave period, the employee must report to their assigned unit and/or complement, and ensure that the reassumption document is sent to the Human Resources Administration Directorate / Coordination of Provision and Mobility / Temporary Leave Coordination.",
-    "compensation": "The employee does not need to take leave, as the payment is made directly to the registered bank account."
+  "prazo_para_requerer": "Conforme o período indicado na portaria de publicação.",
+  "procedimentos_apos_termino": {
+    "fruicao": "Findo o prazo do afastamento, o(a) servidor(a) deverá apresentar-se a sua Unidade de Lotação e/ou Complementação, providenciar o envio do documento de reassunção do exercício funcional à Diretoria de Administração de Recursos Humanos/ Coordenação de Provimento e Movimentação/ Coordenação de Afastamento Temporário.",
+    "pecunia": "Não há afastamento do servidor, pois a licença é paga em moeda corrente direto na conta corrente cadastrada no sistema do governo."
   },
-  "responsible_unit": "Human Resources Administration Directorate (DIREH) / Coordination of Provision and Mobility (CPM) / Temporary Leave Coordination (CAT), in the case of enjoyment.",
-  "general_information": [
-    "The employee must remain active while awaiting approval of the leave by the competent authority (publication in the State Official Gazette).",
-    "Double counting for retirement is guaranteed for five-year periods completed until 12/15/1998.",
-    "In the case of holding multiple positions, even within the same institution, the longevity leave must be requested separately for each position."
+  "unidade_responsavel": "Diretoria de Administração de Recursos Humanos (DIREH)/ Coordenação de Provimento e Movimentação (CPM) / Afastamento Temporário (CAT), em caso de fruição.",
+  "informacoes_gerais": [
+    "O(a) servidor(a) deverá aguardar em atividade a concessão da licença pela autoridade competente (publicação no Diário Oficial do Estado).",
+    "É assegurada a contagem em dobro para a aposentadoria dos quinquênios completados até a data da 15/12/1998.",
+    "Em caso de acumulação de cargos, ainda que na mesma instituição, a licença-prêmio deverá ser requerida por cada um deles separadamente."
   ],
-  "interruption_conditions": [
-    "Disciplinary suspension penalty",
-    "Leave for treating a family member's health",
-    "Conviction to a prison sentence by final judgment",
-    "Leave to accompany spouse or partner",
-    "Unjustified absences exceeding 15 days per year or 45 days per five-year period"
+  "interrupcao_periodo_aquisitivo": [
+    "Sofrer penalidade disciplinar de suspensão",
+    "Licença para tratamento de saúde em pessoa da família",
+    "Condenação a pena privativa de liberdade, por sentença definitiva",
+    "Afastamento para acompanhar cônjuge ou companheiro",
+    "Faltas injustificadas ao serviço por mais de 15 dias por ano ou 45 dias por quinquênio"
   ],
-  "rights": "The right to longevity leave does not expire and is not subject to forfeiture.",
-  "legal_basis": [
+  "direito": "O direito a licença prêmio não prescreve, nem está sujeito à caducidade.",
+  "bases_legais": [
     {
-      "description": "Article 41, sections XVIII, XXVII, and XXVIII of the State Constitution.",
+      "descricao": "Art. 41, inciso XVIII, XXVII e XXVIII da Constituição Estadual.",
       "link": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
     },
     {
-      "description": "Articles 107 to 110 of Law 6.677 of September 26, 1994.",
+      "descricao": "Art. 107 a 110 da Lei 6.677 de 26 de setembro de 1994.",
       "link": "http://www.legislabahia.ba.gov.br/verdoc.php?id=72545"
     }
   ]
